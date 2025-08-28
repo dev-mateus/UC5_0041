@@ -25,5 +25,5 @@ for controle in range(1, 11):
 # fimpara
 # escreva("O maior número informado é:", maior)
 print('O maior numero informado é:', maior)
-# print("O menor número informado é:", menor)
+# escreva("O menor número informado é:", menor)
 print('O menor numero informado é:', menor)
