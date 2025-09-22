@@ -44,4 +44,3 @@ Escolha a opção desejada e siga as instruções.
 ---
 
 Projeto desenvolvido para fins didáticos na UC5 do curso Técnico em Desenvolvimento de Sistemas.
-```
