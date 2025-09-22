@@ -1,6 +1,6 @@
 # Projeto 02 - Gerenciador de Lista de Compras
 
-Este projeto permite criar e gerenciar listas de compras de forma simples, utilizando classes Python para organizar os itens e salvar as listas em arquivos de texto.
+Este projeto permite criar e gerenciar listas de compras utilizando Python, facilitando o cadastro, remoção, listagem e armazenamento dos itens em arquivos de texto.
 
 ## Funcionalidades
 
@@ -18,18 +18,15 @@ Execute o arquivo principal:
 python main.py
 ```
 
-Ao rodar, serão criadas duas listas de exemplo ("Churrasco" e "Festa Aniversário") e os arquivos de texto correspondentes serão gerados na mesma pasta.
-
 ## Estrutura dos arquivos
 
-- `main.py`: Código principal do projeto, contendo as classes e exemplos de uso.
+- `main.py`: Código principal do projeto, contendo as classes `Item` e `ListaCompras`, além de exemplos de uso.
 
-## Exemplo de saída
+## Exemplo de uso
 
-Serão gerados arquivos como:
+Ao rodar o projeto, você pode criar listas de compras, adicionar e remover itens, listar os itens e salvar a lista em um arquivo de texto. Os arquivos gerados terão nomes como:
 
-- `Churrasco_2025-09-22.txt`
-- `Festa Aniversário_2025-09-22.txt`
+- `MinhaLista_2025-09-22.txt`
 
 Cada arquivo contém os itens e quantidades da respectiva lista.
 
