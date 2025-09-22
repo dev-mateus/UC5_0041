@@ -1,4 +1,4 @@
--.# Explicação do Código de Biblioteca com Conceitos de Programação Orientada a Objetos
+# Explicação do Código de Biblioteca com Conceitos de Programação Orientada a Objetos
 
 Este projeto simula um sistema de biblioteca utilizando **Programação Orientada a Objetos (POO)**. A POO é um paradigma que organiza o código em estruturas chamadas **classes**, que representam entidades do mundo real, e **objetos**, que são instâncias dessas classes. Cada classe pode ter **atributos** (características) e **métodos** (ações).
 
