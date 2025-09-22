@@ -1,4 +1,3 @@
-```markdown
 # Projeto 02 - Gerenciador de Lista de Compras
 
 Este projeto permite criar e gerenciar listas de compras de forma simples, utilizando classes Python para organizar os itens e salvar as listas em arquivos de texto.
@@ -37,4 +36,3 @@ Cada arquivo contém os itens e quantidades da respectiva lista.
 ---
 
 Projeto desenvolvido para fins didáticos na UC5 do curso Técnico em Desenvolvimento de Sistemas.
-```
