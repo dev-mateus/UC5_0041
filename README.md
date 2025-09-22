@@ -12,7 +12,8 @@ Este repositório contém atividades e materiais relacionados à Unidade Curricu
 
 ## 📁 Estrutura do Repositório
 
-- `atividades/`: Contém os scripts e projetos desenvolvidos em Python durante a UC.
+- `atividades/`: Contém os scripts desenvolvidos em Python, introduzindo os conceitos iniciais da linguagem de programação python.
+- `projetos/`: Contém os projetos desenvolvidos em Python.
 - Outros arquivos e materiais complementares serão adicionados conforme o andamento da disciplina.
 
 ## 🧑‍🏫 Objetivo da UC
