@@ -1,6 +1,6 @@
 ## Revisão dos Projetos 02, 03 e 04: Conceitos de Programação Orientada a Objetos
 
-Os projetos analisados (Lista de Compras, Gerenciador de Tarefas e Controle de Estoque/Biblioteca) utilizam **Programação Orientada a Objetos (POO)**, um paradigma que organiza o código em torno de entidades chamadas **objetos**.
+Os projetos (Lista de Compras, Gerenciador de Tarefas e Controle de Estoque/Biblioteca) utilizam **Programação Orientada a Objetos (POO)**, um paradigma que organiza o código em torno de entidades chamadas **objetos**.
 
 ### Conceitos Fundamentais
 
