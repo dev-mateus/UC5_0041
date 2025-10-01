@@ -15,5 +15,3 @@ def calcula_gasto_calorico(atividade, tempo, peso):
     
     gasto_calorico = met * peso * tempo / 60
     print(f'{gasto_calorico:.2f} cal')
-
-

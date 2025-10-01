@@ -1,6 +1,6 @@
-from imc import *
-from frequencia_cardiaca import *
-from gasto_calorico import *
+from imc import calcula_imc
+from frequencia_cardiaca import calcula_frequencia_cardiaca
+from gasto_calorico import calcula_gasto_calorico
 
 
 def menu():
