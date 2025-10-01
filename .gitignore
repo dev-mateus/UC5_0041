@@ -1,0 +1,13 @@
+#ignora extensões de arquivos desnecessário
+**/*.txt
+**/*.xml
+**/*.drawio
+**/*.pyc
+**/*.iml
+
+#ignora um xcript python para teste de comandos
+atividades/teste.py
+
+# ignora um projeto teste
+projetos/biblioteca_comunitaria/main.py
+projetos/biblioteca_comunitaria/teste.py
