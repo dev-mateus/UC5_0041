@@ -6,7 +6,6 @@ class Leitor:
         self.cod = cod
         self.nome = nome
         self.telefone = telefone
-        #self.leitor = []
 
 
     def cadastrar_leitor(self):
