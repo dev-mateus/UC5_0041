@@ -11,3 +11,6 @@ atividades/teste.py
 # ignora um projeto teste
 projetos/biblioteca_comunitaria/main.py
 projetos/biblioteca_comunitaria/teste.py
+
+# ignora a pasta de configuração do vscode
+.vscode
