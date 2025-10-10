@@ -1,10 +1,10 @@
 import customtkinter
 
 
-class Janela:
+class Interface:
     def __init__(self):
+        
         self.janela = customtkinter.CTk()
-        self.janela.title
         self.janela.title("Minha Janela")
         self.janela.geometry("400x300")
 
@@ -24,4 +24,4 @@ class Janela:
         self.saida.configure(text=texto)
 
 if __name__ == "__main__":
-    Janela()
+    Interface()
