@@ -5,12 +5,13 @@
 **/*.pyc
 **/*.iml
 
-#ignora um xcript python para teste de comandos
+#ignora um script python para teste de comandos
 atividades/teste.py
 
 # ignora um projeto teste
 projetos/biblioteca_comunitaria/main.py
 projetos/biblioteca_comunitaria/teste.py
+exemplos/interface_bd,py
 
 # ignora a pasta de configuração do vscode
 .vscode
